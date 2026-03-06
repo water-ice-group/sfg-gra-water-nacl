@@ -8,6 +8,7 @@ This repository contains supplementary data supporting the findings of the paper
 The content of this repository is licensed under the CC-BY-SA-4.0 license. See the file `LICENSE` for details.
 
 ## Contents
+- `figs-and-data`: Data and plotting scripts to produce the figures reported.
 - `input-simulations`: Example input files for the MD simulations performed in this work. This folder includes:
   - `equi-ff-example`: Scripts used to generate reasonable initial structures with a classical force field.
   - `piston-example`: Scripts employing the piston approach to equilibrate the pore width such that the system reaches 1 atm.
