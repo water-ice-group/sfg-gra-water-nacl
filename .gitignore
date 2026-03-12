@@ -8,6 +8,7 @@ __pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.figs-and-data/fig4/total-data
 
 # DS_Store
 .DS_Store
